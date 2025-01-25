@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct FootDashApp: App {
+
     var body: some Scene {
         WindowGroup {
-            TabbarView()
+            MainView()
         }
     }
 }
